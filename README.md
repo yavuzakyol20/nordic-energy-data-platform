@@ -38,3 +38,11 @@ Mantık şu:
 - feature branch oluştur -> git checkout -b feature/ingestion-setup
 
 Artık feature içindeki ilk commiti yapacağız
+
+### 08.05.2026 - Ömer
+- ingestion modül yapısı oluşturuldu
+- raw, scripts, sources ve tests klasörleri eklendi
+- Python ve pandas ortam kurulumu yapıldı
+- örnek Nordic enerji veri seti oluşturuldu
+- pandas kullanılarak ilk ingestion pipeline geliştirildi
+- dataframe inceleme ve temel veri doğrulama kontrolleri eklendi
